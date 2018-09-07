@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536325996 source:/home/d3rbastl3r/workspace/codeblocks/ATTiny13A_fast_pwm/main.cpp
+	<avr/io.h>
+	<avr/interrupt.h>
+
